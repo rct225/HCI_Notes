@@ -4,7 +4,7 @@
 <html>
 <body>
   {% for item in site.pages %}
-        <li>{{ item }}</li>
+        <li><a href="{{ item.url }}">{{ item.title }}</li>
       {% endfor %}
 </body>
 </html>
