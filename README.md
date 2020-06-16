@@ -3,8 +3,8 @@ Notes for Human Computer Interaction course - CS6750
 
 
 ## Organization
-* The notes are organized according to requirement for tests in folders [Test1](https://github.com/manikandan-ravikiran/HCI_Notes/tree/master/Test%201) and [Test2](https://github.com/manikandan-ravikiran/HCI_Notes/tree/master/Test%202).
-* Each of the test folders has all the materials corresponding to [videos](https://github.com/manikandan-ravikiran/HCI_Notes/tree/master/Test%201/Notes) and supplimentary [reading material](https://github.com/manikandan-ravikiran/HCI_Notes/tree/master/Test%201/Readings).
+* The notes are organized according to requirement for tests in folders [Test1](HCI_Notes/tree/master/Test%201) and [Test2](HCI_Notes/tree/master/Test%202).
+* Each of the test folders has all the materials corresponding to [videos](HCI_Notes/tree/master/Test%201/Notes) and supplimentary [reading material](HCI_Notes/tree/master/Test%201/Readings).
 
 
 ### Warning
