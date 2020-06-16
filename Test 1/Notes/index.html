@@ -1,5 +1,7 @@
 <html>
 <body>
-{{ site.pages }}
+  {% for item in site.pages %}
+        <li>{{ item }}</li>
+      {% endfor %}
 </body>
 </html>
