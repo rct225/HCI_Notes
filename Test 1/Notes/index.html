@@ -7,7 +7,7 @@
 
   {% for item in site.pages %}
        {{ item.dir }}
-       {% if item.dir == "Test%201/Notes/" %}
+       {% if item.dir == "/Test%201/Notes/" %}
         <li><a href="{{ item.path }}">{{ item.name }}</li>
        {% endif %}
   {% endfor %}
