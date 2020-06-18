@@ -6,7 +6,6 @@
 <body>
 
   {% for item in site.pages | where:"dir","/Test%201/Notes/" %}
-        {{ item }}
         <li><a href="{{ item.path }}">{{ item.name }}</li>
       {% endfor %}
 </body>
