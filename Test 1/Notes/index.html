@@ -4,7 +4,8 @@
 <html>
   
 <body>
-  {% for item in site.pages | where: 'dir','/Test%201/Notes/' %}
+
+  {% for item in site.pages | where: 'dir','/Test 1/Notes/' %}
         <li><a href="{{ item.path }}">{{ item.name }}</li>
       {% endfor %}
 </body>
