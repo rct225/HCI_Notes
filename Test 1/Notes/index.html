@@ -2,8 +2,8 @@
 # empty
 ---
 <html>
-<body>
   <script>console.log({{ site.pages | json }});</script>
+<body>
   {% for item in site.pages %}
         <li><a href="{{ item.path }}">{{ item.name }}</li>
       {% endfor %}
